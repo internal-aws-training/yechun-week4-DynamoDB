@@ -1,0 +1,6 @@
+{
+  "ProjectName": {
+    "AttributeValueList": [{ "S": "ddd" }],
+    "ComparisonOperator": "EQ"
+  }
+}

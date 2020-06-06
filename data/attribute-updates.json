@@ -1,0 +1,12 @@
+{
+  "memberNumber": {
+    "Value": {
+      "N": "10"
+    }
+  },
+  "memberName": {
+    "Value": {
+      "S": "test11"
+    }
+  }
+}

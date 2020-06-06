@@ -1,0 +1,11 @@
+{
+  "Project-syc": {
+    "Keys": [
+      {
+        "ProjectName": {"S": "consumer1"},
+        "ProjectType": {"S": "A"}
+      }
+    ]
+  }
+  
+}

@@ -1,0 +1,23 @@
+{
+  "Project-syc": [
+    {
+      "DeleteRequest": {
+        "Key": {
+          "ProjectName":  { "S": "consumer" },
+          "ProjectType": { "S": "A" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "ProjectName": { "S": "ddd" },
+          "ProjectType": { "S": "A" },
+          "memberName": { "S": "testAndTest" },
+          "startDate": { "S": "20200601" },
+          "binary": { "B": "dGhpcyB0ZXh0IGlzIGJhc2U2NC1lbmNvZGVk" }
+        }
+      }
+    }
+  ]
+}

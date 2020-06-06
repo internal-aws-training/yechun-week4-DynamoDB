@@ -1,0 +1,10 @@
+{
+  "memberName": {
+    "AttributeValueList": [
+      {
+        "S": "d"
+      }
+    ],
+    "ComparisonOperator": "CONTAINS"
+  }
+}

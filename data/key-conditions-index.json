@@ -1,0 +1,6 @@
+{
+  "memberName": {
+    "AttributeValueList": [{ "S": "test" }],
+    "ComparisonOperator": "EQ"
+  }
+}
